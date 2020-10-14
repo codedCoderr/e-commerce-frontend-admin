@@ -1,1 +1,1 @@
-# git-github.com-codedCoderr-e-commerce-frontend-admin
+# e-commerce-frontend-admin
